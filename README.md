@@ -7,5 +7,6 @@ Hi, I'm Abi Fadhillah Handhika. I live in Tangerang, Indonesia. I'm a Fullstack 
 
 ## Github Performance Overall
 
-![github stats](https://github-readme-stats.vercel.app/api?username=abifadhillah&show_icons=true)
+<img align="center" alt="Abi FH. Github Stats" src="https://github-readme-stats.vercel.app/api?username=abifadhillah&show_icons=true" />
+<img align="center" alt="Abi FH. Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abifadhillah&layout=compact" />
 
